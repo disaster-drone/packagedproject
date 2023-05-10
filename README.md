@@ -5,8 +5,7 @@
 2. [Demo](#Demo)
 3. [Installation](#Installation-Proccess) 
 4. [Hardware & System Requirements](#Product-Specs)
-5. [Migration Notes](#Migration-Notes)
-6. [Controls](#Controls)
+5. [Controls](#Controls)
 
 
 ## Description
