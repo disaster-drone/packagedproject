@@ -21,11 +21,8 @@ Download Unreal Engine Editor Version: 5.0.3-20979098+++UE5+Release-5.0.
 Download the Oculus App on your Desktop.
 Set up your VR Headset on the Oculus App.
 
-Clone the repository
-~~~
-$ git clone https://github.com/disaster-drone/packagedproject.git
-~~~
-Launch the Unreal Engine Project File called
+**Download**
+Download the [packaged VR Environment executable](https://github.com/disaster-drone/packagedproject/releases/latest)
 
 
 ## Hardware & System Requirements
