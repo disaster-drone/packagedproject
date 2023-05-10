@@ -28,7 +28,7 @@ Set up your VR Headset on the Oculus App.
 - Extract the compressed file in any folder
 - Launch the **launchgame.py** python script and it will launch the executable
 
-> To view the controls for the VR environment, [scroll down](#Controls)
+> To view the controls for the VR environment, [click here.](#Controls)
 
 
 ## Hardware & System Requirements
