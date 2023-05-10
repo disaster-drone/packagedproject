@@ -17,12 +17,18 @@ This project contains a sample VR project ready to run on Windows.
 
 ## Installation
 **Prerequisites**
+
 Download Unreal Engine Editor Version: 5.0.3-20979098+++UE5+Release-5.0.
 Download the Oculus App on your Desktop.
 Set up your VR Headset on the Oculus App.
 
 **Download**
-Download the [packaged VR Environment executable](https://github.com/disaster-drone/packagedproject/releases/latest)
+
+- Download the [packaged VR Environment executable](https://github.com/disaster-drone/packagedproject/releases/latest)
+- Extract the compressed file in any folder
+- Launch the **launchgame.py** python script and it will launch the executable
+
+> To view the controls for the VR environment, [scroll down](#Controls)
 
 
 ## Hardware & System Requirements
@@ -52,11 +58,6 @@ However, it was only tested with the Oculus Quest 2 and the Oculus Rift. We reco
 * Note: The Oculus Quest is a tetherless device but you may choose to purchase Oculus Link cable to connect the Oculus Quest with your PC due to frequent connection timeouts.
 
 System requirement information gathered from: https://circuitstream.com/blog/vr-hardware
-
-
-## Migration Notes
-
-
 
 ## Controls
 **Movement**
